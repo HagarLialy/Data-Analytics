@@ -14,7 +14,7 @@ Each folder in this repository is dedicated to a specific tool or concept I’ve
 
 **Tableau:** Projects and dashboards that demonstrate my ability to visualize data for clear, actionable insights.
 
-**Data analysis projects:** showing full detailed projects that I have worked on.
+**Data analysis projects:** showing full details about all projects that I have worked on.
 
 Each folder shows my learning journey in the data analysis scholarship from Digital Egyptians Pioneers Initiative (DEPI). These folders represent my work and dedication to building a solid foundation in data analytics tools as I progress through the curriculum.
 
